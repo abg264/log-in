@@ -21,7 +21,7 @@ function loguear()
     
     if(user=="Admin" && pass=="1234")
         {
-            window.location="./Ballet_video/ballet_video.html";
+            window.location="hola.html";
         }
 
     else
